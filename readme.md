@@ -10,10 +10,10 @@ st411ar@ya.ru
 
 ## Usage
 
-### cd to the 'solutions/task-{id}'
-
 ### build
+cd to the directory `solutions/task-{id}` and execute:
 `mvn clean package`
 
 ### run
-`java -jar target/otus-homework-2017-06.jar`
+cd to the directory `target` and execute:
+`java -jar target/otus-homework-2017-06-{version}.jar`
