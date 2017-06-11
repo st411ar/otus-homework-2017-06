@@ -10,6 +10,8 @@ st411ar@ya.ru
 
 ## Usage
 
+### cd to the 'solutions/task-{id}'
+
 ### build
 `mvn clean package`
 
